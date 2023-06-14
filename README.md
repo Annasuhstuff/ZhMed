@@ -16,4 +16,5 @@ This repository contains code and resources for training and evaluating Named En
  • CMeEE_dev.json: This file contains the validation dataset used for tuning hyperparameters and monitoring the model's progress during training.  
 # CBLUE Benchmark  
 cblue folder contains files from CBLUE Benchmark, for more detailed information see https://github.com/CBLUEbenchmark/CBLUE  
-If you have any questions left, please contact me via email: annasukhanova321@gmail.com 
+If you have any questions left, please contact me via email: annasukhanova321@gmail.com  
+• models_training_scores: This file contains score evaluations on our ten transformer models
