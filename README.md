@@ -14,4 +14,5 @@ This repository contains code and resources for training and evaluating Named En
  • CMeEE_test.json: This file contains the test dataset for evaluating the trained NER models. It includes Chinese medical texts with annotated named entities that are used to measure the model's performance.  
  
  • CMeEE_dev.json: This file contains the validation dataset used for tuning hyperparameters and monitoring the model's progress during training.  
-
+# CBLUE Benchmark  
+cblue folder contains files from CBLUE Benchmark, for more detailed information see https://github.com/CBLUEbenchmark/CBLUE 
